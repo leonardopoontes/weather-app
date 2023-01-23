@@ -6,9 +6,9 @@ Primeiramente, inicie o servidor:
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
 ```
 
