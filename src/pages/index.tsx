@@ -51,12 +51,12 @@ export default function Home() {
         <Paper withBorder p="lg" style={{maxWidth: "500px"}}>
           <Group position='apart'>
             <Text size='xl' weight={500}>
-              Get the Weather
+              Obter clima
             </Text>
           </Group>
           <Group position='apart'>
             <Text size='lg' >
-              Enter a city, and get the weather below
+              Digite uma cidade e obtenha o clima abaixo
             </Text>
           </Group>
           <Group position='apart' mb="xs">
